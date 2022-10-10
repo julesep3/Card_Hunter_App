@@ -17,3 +17,4 @@ Tools and features included:
 
 Tools and features I implemented: 
  - user/admin log-in, account creation, user/admin settings, dynamic gameplay tracking tools, overall unified aesthetics of the app
+![1-LogIn](https://user-images.githubusercontent.com/50899932/194910427-085b3c9c-63d2-47e4-90be-66dd5ba59f76.JPG)
