@@ -16,4 +16,4 @@ Tools and features included:
  - card inventory, deck builder, card information search, card wishlist, community discussion forum
 
 Tools and features I implemented: 
- - user and admin log in, account creation, user settings, dynamic gameplay tracking tools, overall unified aesthetics of the app
+ - user/admin log-in, account creation, user/admin settings, dynamic gameplay tracking tools, overall unified aesthetics of the app
